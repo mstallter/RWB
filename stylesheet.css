@@ -1,0 +1,46 @@
+h1 {
+    font-size: 28px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: medium;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+body {
+    background-color:#667480;
+}
+
+header {
+    background-color: #1D6080;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    border-width: medium;
+    border-color: black;
+}
+
+.desk {
+    width: 50%;
+    height: auto;
+    align-content: center;
+    position: relative;
+    left:25%;
+    border: 2px solid black;
+}
+
+.paragraph {
+    text-align: left;
+}
+
+.div {
+    background-color: #679FCC;
+    vertical-align: middle;
+    width: 100%;
+    height: auto;
+    border: 2px solid black;
+}
